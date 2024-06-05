@@ -1,7 +1,7 @@
 <img align="left" alt="Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Playdric&show_icons=true&theme=dark" />
+<!--
 <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Playdric&show_icons=true&layout=compact&theme=dark" />
 
-<!--
 **Playdric/Playdric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
